@@ -16,7 +16,6 @@ Requires(preun): php-pear
 Requires:	php-pear-HTTP_Request
 BuildArch:	noarch
 BuildRequires:	dos2unix
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 With the PEAR Cache you can cache the result of certain function
