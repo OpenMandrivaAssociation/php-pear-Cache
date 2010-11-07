@@ -2,8 +2,8 @@
 %define		upstream_name	%{_class}
 
 Name:		php-pear-%{upstream_name}
-Version:	1.5.5
-Release:	%mkrel 4
+Version:	1.5.6
+Release:	%mkrel 1
 Summary:	Framework for caching of arbitrary data
 License:	PHP License
 Group:		Development/PHP
