@@ -3,7 +3,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.5.6
-Release:	5
+Release:	6
 Summary:	Framework for caching of arbitrary data
 License:	PHP License
 Group:		Development/PHP
