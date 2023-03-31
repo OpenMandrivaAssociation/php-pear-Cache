@@ -4,7 +4,7 @@
 Summary:	Framework for caching of arbitrary data
 Name:		php-pear-%{upstream_name}
 Version:	1.5.6
-Release:	14
+Release:	15
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Cache/
