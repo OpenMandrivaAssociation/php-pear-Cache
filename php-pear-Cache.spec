@@ -7,7 +7,7 @@ Version:	1.5.6
 Release:	15
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Cache/
+Url:		https://pear.php.net/package/Cache/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	php-pear
